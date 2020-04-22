@@ -1,10 +1,16 @@
+/*
+OOP Lab Test 2020
+Student Name: Jiyuan Liu
+Student Number: D17129141
+*/
+
 package ie.tudublin;
 
 import processing.data.TableRow;
 
 public class Task 
 {
-    
+
     private String task;
     private int start;
     private int end;

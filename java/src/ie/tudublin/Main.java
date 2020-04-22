@@ -1,3 +1,9 @@
+/*
+OOP Lab Test 2020
+Student Name: Jiyuan Liu
+Student Number: D17129141
+*/
+
 package ie.tudublin;
 
 public class Main
